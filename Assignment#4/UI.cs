@@ -15,13 +15,19 @@ using System.Threading.Tasks;
 
 namespace Assignment_4
 {
+    /// <summary>
+    /// The UI class of the program. It has only one method Display which prints the output foe the program
+    /// </summary>
     internal class UI
     {
-
+        /// <summary>
+        /// it takes a string and print it using Console.Writeline
+        /// </summary>
+        /// <param name="output"></param>
         public void Display(string output)
         {
 
-            Console.WriteLine(output);
+            Console.WriteLine(output);      //printing the output
         
         }
 
