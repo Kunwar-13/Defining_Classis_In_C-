@@ -24,7 +24,7 @@ namespace Assignment_4
         /// It contains the logic of the program. First it sets all the data members of 5 members of class MemberOfSocialMedia and 
         /// also creates a UI class to display output by calling the GetName and CalculateAge of MemberOfSocialMedia class. 
         /// </summary>
-        static public void Logic()
+        public void Logic()
         {
             UI ui = new UI();   //Istantination of a UI class
             
