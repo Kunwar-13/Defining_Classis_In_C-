@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+* FILE : Program.cs
+* PROJECT :PROG1385 – OBJECT ORIENTED PROGAMMING - Assignment #4
+* PROGRAMMER : Ayushpreet Singh
+* FIRST VERSION : 2025-02-09
+* DESCRIPTION :
+* The function in this file defines a class called Run and it contains a method that is the actual program logic
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
